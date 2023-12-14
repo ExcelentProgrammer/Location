@@ -4,8 +4,7 @@
 //use Iprogrammer\Location;
 
 //require_once "vendor/autoload.php";
-//
-//
+
 //$latitude1 = 41.3703476; // Latitude of location 1
 //$longitude1 = 69.2100909; // Longitude of location 1
 //

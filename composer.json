@@ -1,0 +1,17 @@
+{
+    "name": "iprogrammer/location",
+    "description": "Location counter",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Iprogrammer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Azamov Samandar",
+            "email": "azamov.samandar.programmer@gmail.com"
+        }
+    ],
+    "require": {}
+}
